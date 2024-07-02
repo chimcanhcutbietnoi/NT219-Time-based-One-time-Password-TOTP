@@ -5,6 +5,6 @@ Môn: Mật mã học - NT219.N21.ATCL
 
 Thành viên:
 
-Lê Hoàng Oanh - 21521253
-Bùi Hoàng Trúc Anh - 21521817
-Nguyễn Ngọc Trà My - 21520353
+Lê Hoàng Oanh - 21521253\n
+Bùi Hoàng Trúc Anh - 21521817\n
+Nguyễn Ngọc Trà My - 21520353\n
